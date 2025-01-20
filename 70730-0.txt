@@ -15,6 +15,7 @@ Title: A history of England principally in the seventeenth century,
 Author: Leopold von Ranke
 
 Release Date: May 10, 2023 [eBook #70730]
+Last Updated: July 19, 2023
 
 Language: English
 
@@ -192,7 +193,7 @@ THE ENGLISH CIVIL WAR, 1642-1646.
 
     INTRODUCTION                                                         335
 
-    CHAP. I.  Origin cf the Civil War                                    338
+    CHAP. I.  Origin of the Civil War                                    338
 
       ”   II.  The Campaigns of 1642 and 1643                            362
 
